@@ -1,0 +1,1 @@
+# accommodation-image-api
